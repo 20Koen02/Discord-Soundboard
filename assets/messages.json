@@ -1,0 +1,9 @@
+{
+  "noConnectPerms": ":x: I have no permission to connect!",
+  "noSpeakPerms": ":x: I have no permission to speak!",
+  "nowPlaying": ":white_check_mark: Now playing: **{0}**!",
+  "noVoiceChannel": ":x: Please join a voice channel!",
+  "alreadyPlaying": ":x: Another sound is already playing in that voicechannel!",
+  "noValidSound": ":x: Please provide a valid sound!",
+  "noConfigPerms": ":x: You need the Manage Server permissions to do that!"
+}

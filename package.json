@@ -1,0 +1,31 @@
+{
+  "name": "soundboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.0.0"
+  },
+  "author": "Koen02",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "discord.js": "github:hydrabolt/discord.js",
+    "dotenv": "^5.0.1",
+    "enmap": "^0.6.2",
+    "enmap-level": "^1.0.1",
+    "fs-nextra": "^0.3.2",
+    "inquirer": "^5.1.0",
+    "klaw": "^2.1.1",
+    "moment": "^2.21.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "snekfetch": "^3.6.4",
+    "express": "^4.16.3",
+    "ytdl-core": "^0.20.2",
+    "node-opus": "^0.2.7"
+  }
+}
