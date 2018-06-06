@@ -1,3 +1,2 @@
 # Soundboard Discord Bot
-## • Project Leader: Koen02
-## • Project Helpers: KolkiesDev, UserR00T
+## Development canceled on my part. *"KolkiesDev" | Kolkies#0443* has the permission to continue it
