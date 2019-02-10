@@ -1,2 +1,4 @@
 # Soundboard Discord Bot
-## Development canceled on my part. *"KolkiesDev" | Kolkies#0443* has the permission to continue it
+Development canceled, but code should work.
+You have all right to continue this project but you have to credit me.
+
